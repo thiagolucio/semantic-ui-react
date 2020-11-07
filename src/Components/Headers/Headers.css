@@ -1,0 +1,8 @@
+.img-header img {
+    border-radius: 50%;
+    text-align: center;
+}
+.content-header-logo {
+    display: flex;
+    justify-content: center;
+}
