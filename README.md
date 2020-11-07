@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Template Using React and Semantic UI Library with Custom Optmized Components.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Getting Started with Create React App
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and Semantic UI Library [Semantic UI](https://semantic-ui.com/).
+
 
 ## Available Scripts
 
