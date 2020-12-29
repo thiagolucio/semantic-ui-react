@@ -1,6 +1,6 @@
 import React from 'react'
 import { Header, Divider, Image } from 'semantic-ui-react'
-import LogoHora from '../../assets/images/screenshot.png';
+import Logo from '../../assets/images/logo.png';
 import './Headers.css';
 
 const HeaderFashion = () => (
@@ -8,15 +8,15 @@ const HeaderFashion = () => (
     <Header as='h2' icon textAlign='center' style={{marginTop: "6%"}}>
         <div className="content-header-logo">
             <Image
-            src={LogoHora}
+            src={Logo}
             as='a'
             size='small'
-            className="img-header"
-            href='https://horadigital.com.br/'
+            className="img-header App-logo"
+            href='https://thiagolucio.com.br/'
             target='_blank'
         />
         </div>        
-      <Header.Content>SHOWCASE</Header.Content>
+      <Header.Content>ReactJS with Semantic UI</Header.Content>
       <Divider inverted />
     </Header>
     

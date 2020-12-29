@@ -1,10 +1,9 @@
 import './App.css';
-import ShowCase from './Screens/ShowCase';
-
+import Login from './Screens/Login';
 
 function App() {
   return (
-    <ShowCase/>
+    <Login />
   );
 }
 

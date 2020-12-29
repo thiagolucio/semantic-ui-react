@@ -1,0 +1,11 @@
+.column.cards {    
+    padding: 16px;
+    border-radius: 6px;
+    background-color: white;
+    margin: 8px;    
+    box-shadow: 10px 10px 5px -8px rgba(0,0,0,0.47)!important;
+}
+
+.cards .buttons {
+    background-color: white;
+}

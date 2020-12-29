@@ -1,0 +1,8 @@
+.buttons {
+    background-color: #1b1c1d;
+    padding: 16px;
+    border-radius: 6px;
+}
+.buttons.button {
+    margin: 4px 8px;
+}
